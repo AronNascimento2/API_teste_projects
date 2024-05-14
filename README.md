@@ -15,13 +15,17 @@ com alguns dados básicos:
   </blockquote>
   </br>
 
-  ### Para rodar sem o docker (Necessita do mongodb rodando na porta 27017) execute o comando: </br></br>
+  ### Para rodar execute o comando: </br></br>
   <blockquote>
     <code>npm run start</code>
   </blockquote>
   </br>
 
-
+ ### Use o insomnia ou postman para testar: </br></br>
+  <blockquote>
+     <strong>URL:</strong> https://api-teste-projects.vercel.app/projects </br>
+  </blockquote>
+  </br>
  
 # Rotas
 ## Criar beneficiário </br></br>
