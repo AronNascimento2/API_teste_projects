@@ -1,0 +1,37 @@
+{
+    "projects": [
+      {
+        "name": "Terrus Carbon Coffe",
+        "categorie": "Categoria x",
+        "title":"Este projeto de redução de emissão ...",
+        "description":"Lorem Ipsum is simply dummy ...",
+        "image":"https://caminhodaimagem",
+        "id": 1
+      },
+      {
+        "name": "Terrus Carbon Coffe",
+        "categorie": "Categoria x",
+        "title":"Este projeto de redução de emissão ...",
+        "description":"Lorem Ipsum is simply dummy ...",
+        "image":"https://caminhodaimagem",
+        "id": 2
+      },
+      {
+        "name": "Terrus Carbon Coffe",
+        "categorie": "Categoria x",
+        "title":"Este projeto de redução de emissão ...",
+        "description":"Lorem Ipsum is simply dummy ...",
+        "image":"https://caminhodaimagem",
+        "id": 3
+      },
+      {
+        "name": "Terrus Carbon Coffe",
+        "categorie": "Categoria x",
+        "title":"Este projeto de redução de emissão ...",
+        "description":"Lorem Ipsum is simply dummy ...",
+        "image":"https://caminhodaimagem",
+        "id": 4
+      }
+     
+    ]
+  }
